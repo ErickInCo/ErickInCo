@@ -18,7 +18,7 @@ class SoftwareEngineer:
         self.technologies = ["HTML", "CSS", "SQL", "MongoDB", "Git", "VirtualBox", "Android SDK", "Docker", "Selenium", "PM4PY"]
         self.work_palce = "Centro Nacional de Investigación y Desarrollo Tecnológico"
         self.position = "Student"
-        self.motivation = ["Games", "Automation of daily life"]
+        self.motivation = ["Games", "Automation of daily life", "One Piece"]
 
     def say_hi(self):
         print("Thanks for dropping by, take a look and hope you find some of my work interesting.")
