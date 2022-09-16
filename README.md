@@ -37,7 +37,7 @@ me.say_hi()
 
 ## Some cool stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=erickinco&show_icons=true&theme=tokyonight "></img>
+<img src="https://github-readme-stats.vercel.app/api?username=erickinco&show_icons=true&theme=tokyonight"></img>
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickinco&hide=css,html&theme=tokyonight&layout=compact"></img>
 
