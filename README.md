@@ -35,11 +35,11 @@ me.say_hi()
 [![VoxyAuto](https://github-readme-stats.vercel.app/api/pin/?username=erickinco&repo=VoxyAuto&theme=tokyonight)](https://github.com/ErickInCo/VoxyAuto)
 [![ProyectoMineriaProcesos](https://github-readme-stats.vercel.app/api/pin/?username=erickinco&repo=ProyectoMineriaProcesos&theme=tokyonight)](https://github.com/ErickInCo/ProyectoMineriaProcesos)
 
-<> ## Some cool stats
+## Some cool stats
 
-<> <img src="https://github-readme-stats.vercel.app/api?username=erickinco&show_icons=true&theme=tokyonight"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=erickinco&show_icons=true&theme=tokyonight"></img>
 <br></br>
-<> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickinco&hide=css,html&theme=tokyonight&layout=compact"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickinco&hide=css,html&theme=tokyonight&layout=compact"></img>
 
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
