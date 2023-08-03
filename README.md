@@ -17,7 +17,7 @@ class SoftwareEngineer:
         self.language_prog = ["Java", "Python", "VBA", "C/C++", "PHP", "Javascript"]
         self.technologies = ["HTML", "CSS", "SQL", "MongoDB", "Git", "VirtualBox", "Android SDK", "Docker", "Selenium", "PM4PY"]
         self.work_palce = "Centro Nacional de Investigación y Desarrollo Tecnológico"
-        self.position = "Student"
+        self.position = "Master's in Computer Science"
         self.motivation = ["Games", "Automation of daily life", "One Piece"]
 
     def say_hi(self):
