@@ -14,7 +14,8 @@ class SoftwareEngineer:
         self.name = "Erick Infante Covarrubias"
         self.role = "Software Engineer"
         self.language_spoken = ["es_ES", "en_US"]
-        self.language_prog = ["Java", "Python", "VBA", "C/C++", "PHP", "Javascript"]
+        self.language_prog = ["PHP", "Java", "Python", "VBA", "C/C++", "Javascript"]
+        self.frameworks = ["Laravel", "Spring"]
         self.technologies = ["HTML", "CSS", "SQL", "MongoDB", "Git", "VirtualBox", "Android SDK", "Docker", "Selenium", "PM4PY"]
         self.work_palce = "Digital237"
         self.position = "Laravel Backend Developer"
