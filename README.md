@@ -31,10 +31,7 @@ me.say_hi()
 
 
 
-## I’m currently working on ... <br></br>
 
-[![VoxyAuto](https://github-readme-stats.vercel.app/api/pin/?username=erickinco&repo=VoxyAuto&theme=tokyonight)](https://github.com/ErickInCo/VoxyAuto)
-[![ProyectoMineriaProcesos](https://github-readme-stats.vercel.app/api/pin/?username=erickinco&repo=ProyectoMineriaProcesos&theme=tokyonight)](https://github.com/ErickInCo/ProyectoMineriaProcesos)
 <!---
 ## Some cool stats
 
@@ -57,3 +54,8 @@ me.say_hi()
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
+## I’m currently working on ... <br></br>
+
+[![VoxyAuto](https://github-readme-stats.vercel.app/api/pin/?username=erickinco&repo=VoxyAuto&theme=tokyonight)](https://github.com/ErickInCo/VoxyAuto)
+[![ProyectoMineriaProcesos](https://github-readme-stats.vercel.app/api/pin/?username=erickinco&repo=ProyectoMineriaProcesos&theme=tokyonight)](https://github.com/ErickInCo/ProyectoMineriaProcesos)
